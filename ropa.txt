@@ -1,2 +1,5 @@
 eslaropa;
 se pone camiza color negro;
+se pone un pantalo de color azul;
+se coloca un brazalete de plata;
+se coloca un collar;
